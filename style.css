@@ -1,0 +1,22 @@
+.mm-card{
+
+    border: 0;
+}
+.mm-card-footer{
+
+background-color: white;
+border: 0;
+
+}
+catagories img{
+  width: 100%;
+
+}
+.mm-slide.carousel-item  {
+    background-color:#ebdad9;
+    border-radius:1em;
+
+}
+.padding{
+    padding-left: 10px;
+}
